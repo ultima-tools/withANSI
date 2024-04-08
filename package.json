@@ -1,0 +1,15 @@
+{
+  "name": "withansi",
+  "version": "0.1.0",
+  "description": "ANSI escape code",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Egor Lem",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  }
+}
